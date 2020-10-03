@@ -5,4 +5,11 @@ let instructor = {
     username: "careless10",
     numberOfRepos: 200,
   },
+
 };
+
+console.log("menawer")
+
+
+console.log( instructor [0])
+
